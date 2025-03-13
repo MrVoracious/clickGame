@@ -30,7 +30,7 @@ After the game ends, a leaderboard will display the scores of all players, helpi
 ## 📌 Setup Instructions
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-repo-name.git
+git clone https://github.com/clickGame.git
 ```
 2.	Open index.html in your browser.
 
